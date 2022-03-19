@@ -89,7 +89,7 @@ else { // Set values from POST request
 
 <h1>Bacteria population</h1>
 
-<form action="/index.php" method="post">
+<form action="index.php" method="post">
   <ul>
     <li>
       <label class='red' for="red">red:</label>
